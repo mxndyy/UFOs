@@ -6,7 +6,7 @@ The purpose of this project is to provide a more in-depth analysis of UFO sighti
 
 ## Results
 
-![Result.mov](Result.mov)
+![Result.png](Result.png)
 
 The webpage can be filtered by utilizing the left hand filter. Please note that this filter is case-sensitive. You can enter just 1 filter or enter multiple to display more detailed information. Once the filter parameters have been set, click "Filter Table"
 
